@@ -3,7 +3,6 @@
 # plugins to install
 * Autoscroll
 * Change_Filament
-* DisplayLayerProgress
 * EEPROM Marlin Editor
 * Firmware Updater
 * GcodeEditor
@@ -19,6 +18,9 @@
 * Themeify
 * TouchUI
 * WebcamTab
+
+# plugins disabled
+* DisplayLayerProgress
 
 # plugins to revisit
 * AstroPrint Cloud
