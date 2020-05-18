@@ -3,6 +3,7 @@
 # plugins to install
 * Autoscroll
 * Change_Filament
+* DisplayLayerProgress
 * EEPROM Marlin Editor
 * Firmware Updater
 * GcodeEditor
