@@ -7,10 +7,11 @@
 * [ ] BL Touch
 * [ ] hardened steel nozzle
 * [ ] all metal feeder components
-* [ ] platform sprints
+* [ ] platform springs
 * [ ] nema damper mounts
-* [ ] capricorn tubing
+* [ ] Capricorn PTFE tubing
 * [ ] LED light bar
+* [ ] TL Smoothers
 
 ### printable parts
 * [ ] Noise Reduction
@@ -34,6 +35,7 @@
     * [ ] circular (https://www.thingiverse.com/thing:3544547)
         * [ ] handle (https://www.thingiverse.com/thing:3544575)
     * [ ] circular with logo (https://www.thingiverse.com/thing:3322431)
+    * [ ] circular (https://www.thingiverse.com/thing:3109769)
     * [ ] Yoda (https://www.thingiverse.com/thing:3141160)
 * [ ] Z-axis add-ons
     * [ ] Motor Spacer
@@ -57,11 +59,16 @@
     * [ ] Holder Loop
         * [ ] top mount - with 2020 hooks (https://www.thingiverse.com/thing:2917932)
         * [ ] top mount - with screw (https://www.thingiverse.com/thing:3184079)
+* [ ] Spool Holder
+    * [ ] side mount (https://www.thingiverse.com/thing:2967567)
+    * [ ] filament holder (https://www.thingiverse.com/thing:3209211)
 * [ ] PTFE Tube Enhancemenents
     * [ ] MK8 extruder insert (https://www.thingiverse.com/thing:3260694)
-    * [ ] PTFE cable clip (https://www.thingiverse.com/thing:3256614) 
+    * [ ] PTFE cable clip (https://www.thingiverse.com/thing:2994683)
+    * [ ] PTFE cable clip w/ wire holder (https://www.thingiverse.com/thing:3256614)
 * [ ] Fan Duct
     * [ ] CR-10 version (https://www.thingiverse.com/thing:2814127)
+    * [ ] Remix of CR-10 for Ender-3 Pro (https://www.thingiverse.com/thing:3365114)
     * [ ] Remix of CR-10 for Ender-3 (https://www.thingiverse.com/thing:3906045)
     * [ ] cooling duct (https://www.thingiverse.com/thing:3255518)
     * [ ] petsfang duct (https://www.thingiverse.com/thing:2759439)
@@ -95,3 +102,8 @@
     * [ ] Cable Chain (https://www.thingiverse.com/thing:2920060)
     * [ ] Front rail cover (https://www.thingiverse.com/thing:3476490)
     * [ ] Z-axis wire guide (https://www.thingiverse.com/thing:2761965)
+    * [ ] TL smoother brackets
+        * [ ] single - open back (https://www.thingiverse.com/thing:3195620)
+        * [ ] single - 2020 mount (https://www.thingiverse.com/thing:3333762)
+        * [ ] 3 smoothers - ender 3 pro (https://www.thingiverse.com/thing:3401229)
+        * [ ] 4 smoothers - electronic enclosure (https://www.thingiverse.com/thing:3735603)
