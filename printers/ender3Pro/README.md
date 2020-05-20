@@ -18,6 +18,7 @@
     * [ ] PSU fan baffler (https://www.thingiverse.com/thing:3344508)
     * [ ] PSU fan baffler (more resistance, wrong orientation) (https://www.thingiverse.com/thing:3612639)
     * [ ] Feet noise dampers (https://www.thingiverse.com/thing:3520264)
+    * [ ] Stepper motor damper (https://www.thingiverse.com/thing:3183669)
 * [ ] Tool Holder
     * [ ] Top Right (https://www.thingiverse.com/thing:3515986)
     * [ ] Top Right (https://www.thingiverse.com/thing:3877505)
@@ -51,6 +52,7 @@
         * [ ] micro adjuster (https://www.thingiverse.com/thing:3439532)
 * [ ] Filament Guide
     * [ ] lead screw protector
+        * [ ] ptfe tube w/ lock & cleaner (https://www.thingiverse.com/thing:3773016)
         * [ ] ptfe tube w/ lock (https://www.thingiverse.com/thing:3643366)
         * [ ] ptfe tube w/ metal insert (https://www.thingiverse.com/thing:3508693)
         * [ ] ptfe tube (https://www.thingiverse.com/thing:3337338)
@@ -96,9 +98,11 @@
     * [ ] RPi cam V2 articulated w/ LED (https://www.thingiverse.com/thing:3017729)
 * [ ] Misc add-ons
     * [ ] bed handle (https://www.thingiverse.com/thing:2957507)
-    * [ ] V-slot cover (https://www.thingiverse.com/thing:3248551)
-    * [ ] V-slot cover - multiple lengths (https://www.thingiverse.com/thing:3379068)
-    * [ ] V-slot covers w/ holes (https://www.thingiverse.com/thing:3469646)
+    * [ ] wire box (https://www.thingiverse.com/thing:3169653)
+    * [ ] V-slot covers
+        * [ ] basic (https://www.thingiverse.com/thing:3248551)
+        * [ ] multiple lengths (https://www.thingiverse.com/thing:3379068)
+        * [ ] w/ holes (https://www.thingiverse.com/thing:3469646)
     * [ ] Cable Chain (https://www.thingiverse.com/thing:2920060)
     * [ ] Front rail cover (https://www.thingiverse.com/thing:3476490)
     * [ ] Z-axis wire guide (https://www.thingiverse.com/thing:2761965)
@@ -107,3 +111,5 @@
         * [ ] single - 2020 mount (https://www.thingiverse.com/thing:3333762)
         * [ ] 3 smoothers - ender 3 pro (https://www.thingiverse.com/thing:3401229)
         * [ ] 4 smoothers - electronic enclosure (https://www.thingiverse.com/thing:3735603)
+    * [ ] adjustable feet (https://www.thingiverse.com/thing:3109537)
+    * [ ] buck converter case (https://www.thingiverse.com/thing:3164882)
