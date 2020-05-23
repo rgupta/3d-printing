@@ -14,6 +14,7 @@
 * [ ] TL Smoothers
 
 ### printable parts
+* [ ] Optical End Stops (https://www.thingiverse.com/thing:3131499)
 * [ ] Noise Reduction
     * [ ] PSU fan baffler (https://www.thingiverse.com/thing:3344508)
     * [ ] PSU fan baffler (more resistance, wrong orientation) (https://www.thingiverse.com/thing:3612639)
