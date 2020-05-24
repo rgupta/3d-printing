@@ -3,9 +3,7 @@
 ## Test Prints
 * [Bed Level Test](https://www.thingiverse.com/thing:2987803)
 
-## Upgrades
-
-### hardware / electronics
+## Upgrades - hardware / electronics
 * [ ] SKR Mini E3 v1.2 ([amazon](https://www.amazon.com/BIGTREETECH-Control-Integrated-TMC2209-TMC2208/dp/B081DP1T95/ref=sr_1_3?crid=2XJSWFJQFQZCA&dchild=1&keywords=skr%2Bmini%2Be3%2Bender%2B3&qid=1589785507&sprefix=skr%2Bmin%2Caps%2C220&sr=8-3&th=1))
 * [ ] BL Touch
 * [ ] hardened steel nozzle
@@ -16,7 +14,11 @@
 * [ ] LED light bar
 * [ ] TL Smoothers
 
-### printable parts
+## Upgrades - Printable Parts
+* [X] Cable Protector (https://www.thingiverse.com/thing:3322027)
+
+## Upgrades - Printable Parts (alternatives)
+* [ ] Cable Protector - with screw (https://www.thingiverse.com/thing:4202535)
 * [ ] Optical End Stops (https://www.thingiverse.com/thing:3131499)
 * [ ] Noise Reduction
     * [ ] PSU fan baffler (https://www.thingiverse.com/thing:3344508)
@@ -59,8 +61,6 @@
         * [ ] ptfe tube w/ lock & cleaner (https://www.thingiverse.com/thing:3773016)
         * [ ] ptfe tube w/ lock (https://www.thingiverse.com/thing:3643366)
         * [ ] ptfe tube w/ metal insert (https://www.thingiverse.com/thing:3508693)
-        * [ ] ptfe tube (https://www.thingiverse.com/thing:3337338)
-        * [ ] quick change (https://www.thingiverse.com/thing:3319649)
         * [ ] quick change (https://www.thingiverse.com/thing:2894097)
     * [ ] Holder Loop
         * [ ] top mount - with 2020 hooks (https://www.thingiverse.com/thing:2917932)
@@ -78,11 +78,6 @@
     * [ ] Remix of CR-10 for Ender-3 (https://www.thingiverse.com/thing:3906045)
     * [ ] cooling duct (https://www.thingiverse.com/thing:3255518)
     * [ ] petsfang duct (https://www.thingiverse.com/thing:2759439)
-* [ ] Cable Protector
-    * [ ] 25mm cutout (https://www.thingiverse.com/thing:3322027)
-    * [ ] 25mm cutout with screw (https://www.thingiverse.com/thing:4202535)
-    * [ ] 40mm cutout (https://www.thingiverse.com/thing:2934313)
-    * [ ] 40mm cutout with screw (https://www.thingiverse.com/thing:2996568)
 * [ ] LCD Back Case
     * [ ] with slots (https://www.thingiverse.com/thing:3172299)
     * [ ] control box w/ Pi and Dual Drawer (https://www.thingiverse.com/thing:3722878)
