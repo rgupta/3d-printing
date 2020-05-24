@@ -5,7 +5,6 @@
 * Bed Level Tests
     * [Customizable](https://www.thingiverse.com/thing:3141591)
     * [minimal](https://www.thingiverse.com/thing:3317210)
-    * [minimal - corners complete](https://www.thingiverse.com/thing:2987803)
 * [Filament Test Tower](https://www.thingiverse.com/thing:2397822)
 
 ## Printed Parts

@@ -1,5 +1,8 @@
 # Creality - Ender 3 Pro
 
+## Test Prints
+* [Bed Level Test](https://www.thingiverse.com/thing:2987803)
+
 ## Upgrades
 
 ### hardware / electronics
