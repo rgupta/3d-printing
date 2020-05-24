@@ -21,8 +21,6 @@
 * [ ] Cable Protector - with screw (https://www.thingiverse.com/thing:4202535)
 * [ ] Optical End Stops (https://www.thingiverse.com/thing:3131499)
 * [ ] Noise Reduction
-    * [ ] PSU fan baffler (https://www.thingiverse.com/thing:3344508)
-    * [ ] PSU fan baffler (more resistance, wrong orientation) (https://www.thingiverse.com/thing:3612639)
     * [ ] Feet noise dampers (https://www.thingiverse.com/thing:3520264)
     * [ ] Stepper motor damper (https://www.thingiverse.com/thing:3183669)
 * [ ] Tool Holder
@@ -45,9 +43,6 @@
     * [ ] circular (https://www.thingiverse.com/thing:3109769)
     * [ ] Yoda (https://www.thingiverse.com/thing:3141160)
 * [ ] Z-axis add-ons
-    * [ ] Motor Spacer
-        * [ ] motor spacer - shims only (https://www.thingiverse.com/thing:2925230)
-        * [ ] motor spacer - complete assembly (https://www.thingiverse.com/thing:2752080)
     * [ ] Knob
         * [ ] honeycomb (https://www.thingiverse.com/thing:3179667)
         * [ ] circular (https://www.thingiverse.com/thing:3179667)
