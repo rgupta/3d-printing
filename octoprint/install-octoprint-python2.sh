@@ -1,0 +1,68 @@
+#!/bin/bash
+
+# base directory for all octorpint code and scripts
+OCTOPRINT_HOME=${HOME}/octoprint
+
+# octoprint data directory
+OCTOPRINT_DATA_DIR=${OCTOPRINT_HOME}/data
+
+# ensure that required directories exist
+mkdir -p ${OCTOPRINT_HOME}
+mkdir -p ${OCTOPRINT_DATA_DIR}
+
+# change working directory to octoprint home
+cd ${OCTOPRINT_HOME}
+
+# install packages for octoprint
+echo "installing packages for octoprint ..."
+sudo apt-get -y install \
+    python-pip \
+    python-dev \
+    python-setuptools \
+    python-virtualenv \
+    libyaml-dev \
+    build-essential \
+    git
+
+# add current user to required groups
+echo "adding user to required groups ..."
+sudo usermod -a -G tty ${USER}
+sudo usermod -a -G dialout ${USER}
+
+# create virtual environment
+echo "creating virtual environment ..."
+virtualenv venv2
+
+# update venv link
+echo "updating link to virtual environment ..."
+ln -s venv2 venv
+
+# install octoprint package
+echo "updating link to virtual environment ..."
+venv/bin/pip install pip --upgrade
+venv/bin/pip install octoprint
+
+# downloading service startup scripts
+wget https://github.com/foosel/OctoPrint/raw/master/scripts/octoprint.init
+wget https://github.com/foosel/OctoPrint/raw/master/scripts/octoprint.default
+
+# update octoprint.default script to match local environment
+echo "updating octoprint daemon defaults ..."
+sed -i "s|pi|${USER}|g" octoprint.default
+
+sed -i "s|#BASEDIR|BASEDIR|g" octoprint.default
+sed -i "s|BASEDIR=.*|BASEDIR=${OCTOPRINT_DATA_DIR}|g" octoprint.default
+
+sed -i "s|#CONFIGFILE|CONFIGFILE|g" octoprint.default
+sed -i "s|=.*/config|=${OCTOPRINT_DATA_DIR}/config|g" octoprint.default
+
+sed -i "s|#DAEMON=/home/${USER}/OctoPrint|DAEMON=${OCTOPRINT_HOME}|g" octoprint.default
+
+# configure octoprint to load on startup
+echo "configuring octoprint to start on boot ..."
+sudo mv octoprint.default /etc/default/octoprint
+sudo mv octoprint.init /etc/init.d/octoprint
+sudo chmod +x /etc/init.d/octoprint
+sudo update-rc.d octoprint defaults
+
+echo "Done installing octoprint"
