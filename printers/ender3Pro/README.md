@@ -21,7 +21,7 @@
 * [X] Cable Clips - LCD (https://www.thingiverse.com/thing:3743287)
 * [X] Knob - Extruder (https://www.thingiverse.com/thing:4086299)
 * [X] Knob - Z-axis (https://www.thingiverse.com/thing:3514613)
-* [X] LCD Frame (https://www.thingiverse.com/thing:3368565)
+* [X] LCD Frame (https://www.thingiverse.com/thing:4341726)
 
 ## Upgrades - Printable Parts (alternatives)
 * [ ] Cable Protector - with screw (https://www.thingiverse.com/thing:4202535)
