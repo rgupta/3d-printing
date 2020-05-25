@@ -25,7 +25,6 @@
 ## Upgrades - Printable Parts (alternatives)
 * [ ] Cable Protector - with screw (https://www.thingiverse.com/thing:4202535)
 * [ ] Knob - Extruder (https://www.thingiverse.com/thing:3109769)
-
 * [ ] Optical End Stops (https://www.thingiverse.com/thing:3131499)
 * [ ] Noise Reduction
     * [ ] PSU fan baffler (https://www.thingiverse.com/thing:3344508)
@@ -97,10 +96,5 @@
     * [ ] Cable Chain (https://www.thingiverse.com/thing:2920060)
     * [ ] Front rail cover (https://www.thingiverse.com/thing:3476490)
     * [ ] Z-axis wire guide (https://www.thingiverse.com/thing:2761965)
-    * [ ] TL smoother brackets
-        * [ ] single - open back (https://www.thingiverse.com/thing:3195620)
-        * [ ] single - 2020 mount (https://www.thingiverse.com/thing:3333762)
-        * [ ] 3 smoothers - ender 3 pro (https://www.thingiverse.com/thing:3401229)
-        * [ ] 4 smoothers - electronic enclosure (https://www.thingiverse.com/thing:3735603)
     * [ ] adjustable feet (https://www.thingiverse.com/thing:3109537)
     * [ ] buck converter case (https://www.thingiverse.com/thing:3164882)
