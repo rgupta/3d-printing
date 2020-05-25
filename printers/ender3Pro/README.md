@@ -4,7 +4,7 @@
 * [Bed Level Test](https://www.thingiverse.com/thing:2987803)
 
 ## Upgrades - hardware / electronics
-* [ ] SKR Mini E3 v1.2 ([amazon](https://www.amazon.com/BIGTREETECH-Control-Integrated-TMC2209-TMC2208/dp/B081DP1T95/ref=sr_1_3?crid=2XJSWFJQFQZCA&dchild=1&keywords=skr%2Bmini%2Be3%2Bender%2B3&qid=1589785507&sprefix=skr%2Bmin%2Caps%2C220&sr=8-3&th=1))
+* [ ] SKR Mini E3 v1.2
 * [ ] BL Touch
 * [ ] hardened steel nozzle
 * [ ] all metal feeder components
@@ -12,7 +12,6 @@
 * [ ] nema damper mounts
 * [ ] Capricorn PTFE tubing
 * [ ] LED light bar
-* [ ] TL Smoothers
 
 ## Upgrades - Printable Parts
 * [X] Cable Protector (https://www.thingiverse.com/thing:3322027)
