@@ -16,11 +16,12 @@
 
 ## Upgrades - Printable Parts
 * [X] Cable Protector (https://www.thingiverse.com/thing:3322027)
-* [ ] Z-axis Stabilizer with bearing (https://www.thingiverse.com/thing:3394675)
+* [X] Z-axis Stabilizer with bearing (https://www.thingiverse.com/thing:3394675)
 * [X] Cable Clips - PSU (https://www.thingiverse.com/thing:2960375)
 * [X] Cable Clips - LCD (https://www.thingiverse.com/thing:3743287)
-* [ ] Knob - Extruder (https://www.thingiverse.com/thing:4086299)
-* [ ] Knob - Z-axis (https://www.thingiverse.com/thing:3514613)
+* [X] Knob - Extruder (https://www.thingiverse.com/thing:4086299)
+* [X] Knob - Z-axis (https://www.thingiverse.com/thing:3514613)
+* [X] LCD Frame (https://www.thingiverse.com/thing:3368565)
 
 ## Upgrades - Printable Parts (alternatives)
 * [ ] Cable Protector - with screw (https://www.thingiverse.com/thing:4202535)
@@ -77,6 +78,10 @@
     * [ ] Dual Drawer with organizers (https://www.thingiverse.com/thing:3664764)
 * [ ] Electronics Case
     * [ ] SKR 1.1 / 1.3 with Raspberry Pi and LM2596 (https://www.thingiverse.com/thing:3683625)
+        * [ ] cover with space for fan - 80mm (https://www.thingiverse.com/thing:4208579)
+    * [ ] modified (corrected) version of above (https://www.thingiverse.com/thing:4107156)
+        * [ ] cover with space for fan - 60mm (https://www.thingiverse.com/thing:4344416)
+    * [ ] another design (https://www.thingiverse.com/thing:3835781/files)
 * [ ] Belt Tensioners
     * [ ] Y-axis (https://www.thingiverse.com/thing:3268192)
     * [ ] X-axis (https://www.thingiverse.com/thing:3319649)
