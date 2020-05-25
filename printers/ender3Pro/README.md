@@ -16,11 +16,19 @@
 
 ## Upgrades - Printable Parts
 * [X] Cable Protector (https://www.thingiverse.com/thing:3322027)
+* [ ] Z-axis Stabilizer with bearing (https://www.thingiverse.com/thing:3394675)
+* [X] Cable Clips - PSU (https://www.thingiverse.com/thing:2960375)
+* [X] Cable Clips - LCD (https://www.thingiverse.com/thing:3743287)
+* [ ] Knob - Extruder (https://www.thingiverse.com/thing:4086299)
+* [ ] Knob - Z-axis (https://www.thingiverse.com/thing:3514613)
 
 ## Upgrades - Printable Parts (alternatives)
 * [ ] Cable Protector - with screw (https://www.thingiverse.com/thing:4202535)
+* [ ] Knob - Extruder (https://www.thingiverse.com/thing:3109769)
+
 * [ ] Optical End Stops (https://www.thingiverse.com/thing:3131499)
 * [ ] Noise Reduction
+    * [ ] PSU fan baffler (https://www.thingiverse.com/thing:3344508)
     * [ ] Feet noise dampers (https://www.thingiverse.com/thing:3520264)
     * [ ] Stepper motor damper (https://www.thingiverse.com/thing:3183669)
 * [ ] Tool Holder
@@ -28,27 +36,12 @@
     * [ ] Top Right (https://www.thingiverse.com/thing:3877505)
     * [ ] Top Right (https://www.thingiverse.com/thing:3348125)
     * [ ] Top Right - flat (https://www.thingiverse.com/thing:2894604)
-    * [ ] Over PSU (https://www.thingiverse.com/thing:3324620)
+    * [ ] Over PSU (https://www.thingiverse.com/thing:3321292)
 * [ ] Cable Clips
-    * [ ] PSU / Display Ribbon (https://www.thingiverse.com/thing:2960375)
-    * [ ] Display Ribbon (https://www.thingiverse.com/thing:2880021)
     * [ ] Extruder and X stepper (https://www.thingiverse.com/thing:2949858)
     * [ ] bowden cable - option 1 (https://www.thingiverse.com/thing:4268417)
     * [ ] bowden cable - option 2 (https://www.thingiverse.com/thing:2732084)
-* [ ] Extruder Knob
-    * [ ] honeycomb (https://www.thingiverse.com/thing:3366468)
-    * [ ] circular (https://www.thingiverse.com/thing:3544547)
-        * [ ] handle (https://www.thingiverse.com/thing:3544575)
-    * [ ] circular with logo (https://www.thingiverse.com/thing:3322431)
-    * [ ] circular (https://www.thingiverse.com/thing:3109769)
-    * [ ] Yoda (https://www.thingiverse.com/thing:3141160)
 * [ ] Z-axis add-ons
-    * [ ] Knob
-        * [ ] honeycomb (https://www.thingiverse.com/thing:3179667)
-        * [ ] circular (https://www.thingiverse.com/thing:3179667)
-        * [ ] w/ handle (https://www.thingiverse.com/thing:3624645)
-    * [ ] Stabilizer
-        * [ ] with bearing (https://www.thingiverse.com/thing:3370355)
     * [ ] End Stop Adjuster
         * [ ] micro adjuster (https://www.thingiverse.com/thing:3439532)
 * [ ] Filament Guide
