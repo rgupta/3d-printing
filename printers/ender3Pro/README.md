@@ -22,21 +22,20 @@
 * [X] Knob - Z-axis (https://www.thingiverse.com/thing:3514613)
 * [X] LCD - frame (https://www.thingiverse.com/thing:4399369)
 * [X] LCD - back cover (https://www.thingiverse.com/thing:3374722)
+* [X] Tool Holder (https://www.thingiverse.com/thing:4341801)
 
 ## Upgrades - Printable Parts (alternatives)
 * [ ] Cable Protector - with screw (https://www.thingiverse.com/thing:4202535)
 * [ ] Knob - Extruder (https://www.thingiverse.com/thing:3109769)
+* [ ] Tool Holder
+    * [ ] https://www.thingiverse.com/thing:3348125
+    * [ ] https://www.thingiverse.com/thing:4303753
+    * [ ] https://www.thingiverse.com/thing:3515986
 * [ ] Optical End Stops (https://www.thingiverse.com/thing:3131499)
 * [ ] Noise Reduction
     * [ ] PSU fan baffler (https://www.thingiverse.com/thing:3344508)
     * [ ] Feet noise dampers (https://www.thingiverse.com/thing:3520264)
     * [ ] Stepper motor damper (https://www.thingiverse.com/thing:3183669)
-* [ ] Tool Holder
-    * [ ] Top Right (https://www.thingiverse.com/thing:3515986)
-    * [ ] Top Right (https://www.thingiverse.com/thing:3877505)
-    * [ ] Top Right (https://www.thingiverse.com/thing:3348125)
-    * [ ] Top Right - flat (https://www.thingiverse.com/thing:2894604)
-    * [ ] Over PSU (https://www.thingiverse.com/thing:3321292)
 * [ ] Cable Clips
     * [ ] Extruder and X stepper (https://www.thingiverse.com/thing:2949858)
     * [ ] bowden cable - option 1 (https://www.thingiverse.com/thing:4268417)
