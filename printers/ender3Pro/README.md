@@ -20,7 +20,8 @@
 * [X] Cable Clips - LCD (https://www.thingiverse.com/thing:3743287)
 * [X] Knob - Extruder (https://www.thingiverse.com/thing:4086299)
 * [X] Knob - Z-axis (https://www.thingiverse.com/thing:3514613)
-* [X] LCD Frame (https://www.thingiverse.com/thing:4341726)
+* [X] LCD - frame (https://www.thingiverse.com/thing:4341726)
+* [X] LCD - back cover (https://www.thingiverse.com/thing:3374722)
 
 ## Upgrades - Printable Parts (alternatives)
 * [ ] Cable Protector - with screw (https://www.thingiverse.com/thing:4202535)
@@ -66,7 +67,6 @@
     * [ ] cooling duct (https://www.thingiverse.com/thing:3255518)
     * [ ] petsfang duct (https://www.thingiverse.com/thing:2759439)
 * [ ] LCD Back Case
-    * [ ] with slots (https://www.thingiverse.com/thing:3172299)
     * [ ] control box w/ Pi and Dual Drawer (https://www.thingiverse.com/thing:3722878)
     * [ ] control box w/ Pi (https://www.thingiverse.com/thing:3434509)
 * [ ] Front Storage Trays
