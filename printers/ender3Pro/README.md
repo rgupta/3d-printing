@@ -27,10 +27,6 @@
 ## Upgrades - Printable Parts (alternatives)
 * [ ] Cable Protector - with screw (https://www.thingiverse.com/thing:4202535)
 * [ ] Knob - Extruder (https://www.thingiverse.com/thing:3109769)
-* [ ] Tool Holder
-    * [ ] https://www.thingiverse.com/thing:3348125
-    * [ ] https://www.thingiverse.com/thing:4303753
-    * [ ] https://www.thingiverse.com/thing:3515986
 * [ ] Optical End Stops (https://www.thingiverse.com/thing:3131499)
 * [ ] Noise Reduction
     * [ ] PSU fan baffler (https://www.thingiverse.com/thing:3344508)
