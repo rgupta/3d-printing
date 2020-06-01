@@ -12,6 +12,7 @@
 ### plugins to install
 * Autoscroll
 * Change_Filament
+* DisplayLayerProgress
 * EEPROM Marlin Editor
 * Firmware Updater
 * GcodeEditor
@@ -22,6 +23,7 @@
 * OctoPrint-FloatingNavbar
 * OctoPrint-PrintTimeGenius
 * OctoPrint-TabOrder
+* PrintJobHistory
 * Simple Emergency Stop
 * Terminal Commands Extended
 * Themeify
@@ -29,7 +31,6 @@
 * WebcamTab
 
 ### plugins disabled
-* DisplayLayerProgress
 
 ### plugins to revisit
 * AstroPrint Cloud
