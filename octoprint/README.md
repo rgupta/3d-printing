@@ -1,6 +1,15 @@
-[Octoprint Plugins Homepage](https://plugins.octoprint.org)
+# [Octoprint Homepage](https://octoprint.org/)
 
-# plugins to install
+
+## Setup
+**python 2** : `sh install-octoprint-python2.sh`
+
+**python 3** : `sh install-octoprint-python3.sh`
+
+
+## [Octoprint Plugins Homepage](https://plugins.octoprint.org)
+
+### plugins to install
 * Autoscroll
 * Change_Filament
 * EEPROM Marlin Editor
@@ -19,10 +28,10 @@
 * TouchUI
 * WebcamTab
 
-# plugins disabled
+### plugins disabled
 * DisplayLayerProgress
 
-# plugins to revisit
+### plugins to revisit
 * AstroPrint Cloud
 * Bed Level Visualizer
 * Octolapse
@@ -31,7 +40,7 @@
 * OctoPrint-M117PopUp
 * SMS Notifier
 
-# plugins to explore
+### plugins to explore
 * AutomaticShutdown
 * Custom Control Editor
 * Detailed Progress
