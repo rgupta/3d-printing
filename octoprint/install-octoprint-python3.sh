@@ -44,7 +44,7 @@ ln -s venv3 venv
 source venv/bin/activate
 
 # install octoprint package
-echo "updating link to virtual environment ..."
+echo "installing octoprint package ..."
 pip3 install pip --upgrade
 pip3 install octoprint
 
