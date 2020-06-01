@@ -33,14 +33,17 @@ sudo usermod -a -G dialout ${USER}
 echo "creating virtual environment ..."
 virtualenv --python=/usr/bin/python3 venv3
 
+# make the python virtual environment active
+source venv/bin/activate
+
 # update venv link
 echo "updating link to virtual environment ..."
 ln -s venv3 venv
 
 # install octoprint package
 echo "updating link to virtual environment ..."
-venv/bin/pip3 install pip --upgrade
-venv/bin/pip3 install octoprint
+pip3 install pip --upgrade
+pip3 install octoprint
 
 # downloading service startup scripts
 wget https://github.com/foosel/OctoPrint/raw/master/scripts/octoprint.init

@@ -37,10 +37,13 @@ virtualenv venv2
 echo "updating link to virtual environment ..."
 ln -s venv2 venv
 
+# make the python virtual environment active
+source venv/bin/activate
+
 # install octoprint package
 echo "updating link to virtual environment ..."
-venv/bin/pip install pip --upgrade
-venv/bin/pip install octoprint
+pip install pip --upgrade
+pip install octoprint
 
 # downloading service startup scripts
 wget https://github.com/foosel/OctoPrint/raw/master/scripts/octoprint.init
