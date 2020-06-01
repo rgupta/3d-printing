@@ -23,7 +23,6 @@
 * OctoPrint-FloatingNavbar
 * OctoPrint-PrintTimeGenius
 * OctoPrint-TabOrder
-* PrintJobHistory
 * Simple Emergency Stop
 * Terminal Commands Extended
 * Themeify
@@ -35,6 +34,7 @@
 ### plugins to revisit
 * AstroPrint Cloud
 * Bed Level Visualizer
+* PrintJobHistory
 * Octolapse
 * OctoPrint-BLTouch
 * OctoPrint-M117NavBar
