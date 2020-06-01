@@ -53,6 +53,7 @@
 * ShutdownPrinter
 
 ### plugins python 3 incompatible
+* Autoscroll
 * EEPROM Marlin Editor
 * GcodeEditor
 * Octolapse
