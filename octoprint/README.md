@@ -45,7 +45,6 @@
 * AutomaticShutdown
 * Custom Control Editor
 * Detailed Progress
-* DisplayLayerProgress
 * LEDStripControl
 * MQTT
 * MultiCam
