@@ -2,9 +2,9 @@
 
 
 ## Setup
-**python 2** : `sh install-octoprint-python2.sh`
+**python 2** : `bash install-octoprint-python2.sh`
 
-**python 3** : `sh install-octoprint-python3.sh`
+**python 3** : `bash install-octoprint-python3.sh`
 
 
 ## [Octoprint Plugins Homepage](https://plugins.octoprint.org)
