@@ -29,8 +29,6 @@
 * TouchUI
 * WebcamTab
 
-### plugins disabled
-
 ### plugins to revisit
 * AstroPrint Cloud
 * Bed Level Visualizer
@@ -53,3 +51,12 @@
 * OctoPrint-Tasmota
 * OctoPrint-TasmotaMQTT
 * ShutdownPrinter
+
+### plugins python 3 incompatible
+* EEPROM Marlin Editor
+* GcodeEditor
+* Octolapse
+* SMS Notifier
+* WebcamTab
+
+### plugins disabled
