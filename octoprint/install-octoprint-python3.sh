@@ -36,12 +36,12 @@ sudo usermod -a -G dialout ${USER}
 echo "creating virtual environment ..."
 virtualenv --python=/usr/bin/python3 venv3
 
-# make the python virtual environment active
-source venv/bin/activate
-
 # update venv link
 echo "updating link to virtual environment ..."
 ln -s venv3 venv
+
+# make the python virtual environment active
+source venv/bin/activate
 
 # install octoprint package
 echo "updating link to virtual environment ..."
