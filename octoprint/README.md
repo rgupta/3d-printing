@@ -2,9 +2,11 @@
 
 
 ## Setup
-**python 2** : `bash install-octoprint-python2.sh`
+[manual install guide](https://community.octoprint.org/t/setting-up-octoprint-on-a-raspberry-pi-running-raspbian/2337)
 
 **python 3** : `bash install-octoprint-python3.sh`
+
+**python 2** : `bash install-octoprint-python2.sh`
 
 
 ## [Octoprint Plugins Homepage](https://plugins.octoprint.org)
