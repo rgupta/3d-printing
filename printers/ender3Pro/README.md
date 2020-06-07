@@ -10,9 +10,8 @@
 
 ## Upgrades - Hardware
 * [ ] hardened steel nozzle
-* [ ] all metal feeder components
+* [X] all metal feeder components
 * [ ] platform springs
-* [ ] nema damper mounts
 * [ ] Capricorn PTFE tubing
 * [ ] LED light bar
 
@@ -22,10 +21,12 @@
 * [X] Cable Protector (https://www.thingiverse.com/thing:3322027)
 * [X] Cable Clips - PSU (https://www.thingiverse.com/thing:2960375)
 * [X] Cable Clips - LCD (https://www.thingiverse.com/thing:3743287)
+* [X] Cable Clips - Bowden (https://www.thingiverse.com/thing:2732084)
 * [X] Cable Holder - Extruder (https://www.thingiverse.com/thing:3242340)
 * [X] LCD - frame (https://www.thingiverse.com/thing:4399369)
 * [X] LCD - back cover (https://www.thingiverse.com/thing:3374722)
 * [X] Knob - Extruder (https://www.thingiverse.com/thing:4086299)
+* [X] Knob - Z-axis (https://www.thingiverse.com/thing:3514613)
 * [X] Tool Holder (https://www.thingiverse.com/thing:4341801)
 
 ### Alternatives
@@ -45,9 +46,7 @@
     * [ ] Stepper motor damper (https://www.thingiverse.com/thing:3183669)
 * [ ] Cable Clips
     * [ ] Extruder and X stepper (https://www.thingiverse.com/thing:2949858)
-    * [ ] bowden cable (https://www.thingiverse.com/thing:2732084)
 * [ ] Z-axis add-ons
-    * [ ] Knob - Z-axis (https://www.thingiverse.com/thing:3514613)
     * [ ] Z-axis Stabilizer with 688 bearing (https://www.thingiverse.com/thing:3611434)
     * [ ] End Stop Adjuster (https://www.thingiverse.com/thing:3439532)
 * [ ] Filament Guide
