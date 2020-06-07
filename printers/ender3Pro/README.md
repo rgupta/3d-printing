@@ -28,10 +28,14 @@
 * [X] Knob - Extruder (https://www.thingiverse.com/thing:4086299)
 * [X] Knob - Z-axis (https://www.thingiverse.com/thing:3514613)
 * [X] Tool Holder (https://www.thingiverse.com/thing:4341801)
+* [X] Filament Guide - Lead Screw (https://www.thingiverse.com/thing:3752185)
+* [X] Filament Guide - Holder Loop (https://www.thingiverse.com/thing:4161497)
+    * [ ] modified clip (https://www.thingiverse.com/thing:3519359)
 
 ### Alternatives
 * [ ] Cable Protector - with screw (https://www.thingiverse.com/thing:4202535)
 * [ ] Knob - Extruder (https://www.thingiverse.com/thing:3109769)
+* [ ] Filament Guide - Lead Screw (https://www.thingiverse.com/thing:3514129)
 
 ### Candiate List
 * [ ] Belt Tensioners
@@ -49,16 +53,6 @@
 * [ ] Z-axis add-ons
     * [ ] Z-axis Stabilizer with 688 bearing (https://www.thingiverse.com/thing:3611434)
     * [ ] End Stop Adjuster (https://www.thingiverse.com/thing:3439532)
-* [ ] Filament Guide
-    * [ ] lead screw protector
-        * [ ] basic design (https://www.thingiverse.com/thing:2896612)
-        * [ ] ptfe tube w/ lock & cleaner (https://www.thingiverse.com/thing:3773016)
-        * [ ] ptfe tube w/ lock (https://www.thingiverse.com/thing:3643366)
-        * [ ] ptfe tube w/ metal insert (https://www.thingiverse.com/thing:3508693)
-        * [ ] quick change (https://www.thingiverse.com/thing:2894097)
-    * [ ] Holder Loop
-        * [ ] top mount - with 2020 hooks (https://www.thingiverse.com/thing:2917932)
-        * [ ] top mount - with screw (https://www.thingiverse.com/thing:3184079)
 * [ ] Spool Holder
     * [ ] side mount (https://www.thingiverse.com/thing:2967567)
     * [ ] filament holder (https://www.thingiverse.com/thing:3209211)
