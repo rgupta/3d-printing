@@ -30,7 +30,6 @@
 * [X] Tool Holder (https://www.thingiverse.com/thing:4341801)
 * [X] Filament Guide - Lead Screw (https://www.thingiverse.com/thing:3752185)
 * [X] Filament Guide - Holder Loop (https://www.thingiverse.com/thing:4161497)
-    * [ ] modified clip (https://www.thingiverse.com/thing:3519359)
 
 ### Alternatives
 * [ ] Cable Protector - with screw (https://www.thingiverse.com/thing:4202535)
@@ -87,4 +86,3 @@
         * [ ] w/ holes (https://www.thingiverse.com/thing:3469646)
     * [ ] Front rail cover (https://www.thingiverse.com/thing:3476490)
     * [ ] Z-axis wire guide (https://www.thingiverse.com/thing:2761965)
-    * [ ] adjustable feet (https://www.thingiverse.com/thing:3109537)
