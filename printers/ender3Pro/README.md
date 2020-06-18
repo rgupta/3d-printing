@@ -26,7 +26,6 @@
 * [X] LCD - frame (https://www.thingiverse.com/thing:4399369)
 * [X] LCD - back cover (https://www.thingiverse.com/thing:3374722)
 * [X] Knob - Extruder (https://www.thingiverse.com/thing:4086299)
-* [X] Knob - Z-axis (https://www.thingiverse.com/thing:3514613)
 * [X] Tool Holder (https://www.thingiverse.com/thing:4341801)
 * [X] Filament Guide - Lead Screw (https://www.thingiverse.com/thing:3752185)
 * [X] Filament Guide - Holder Loop (https://www.thingiverse.com/thing:4161497)
@@ -50,6 +49,7 @@
 * [ ] Cable Clips
     * [ ] Extruder and X stepper (https://www.thingiverse.com/thing:2949858)
 * [ ] Z-axis add-ons
+    * [ ] Knob(https://www.thingiverse.com/thing:3514613)
     * [ ] Z-axis Stabilizer with 688 bearing (https://www.thingiverse.com/thing:3611434)
     * [ ] End Stop Adjuster (https://www.thingiverse.com/thing:3439532)
 * [ ] Spool Holder
