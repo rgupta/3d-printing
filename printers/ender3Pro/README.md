@@ -4,15 +4,15 @@
 * [Bed Level Test](https://www.thingiverse.com/thing:2987803)
 
 ## Upgrades - Electronics
-* [ ] SKR Mini E3 v2.0
-* [ ] BTT LCD 3.5 v3
+* [X] SKR Mini E3 v2.0
+* [X] BTT LCD 3.5 v3
 * [ ] BL Touch
 
 ## Upgrades - Hardware
 * [ ] hardened steel nozzle
 * [X] all metal feeder components
 * [ ] platform springs
-* [ ] Capricorn PTFE tubing
+* [X] Capricorn PTFE tubing
 * [ ] LED light bar
 
 ## Upgrades - Printable Parts
@@ -23,8 +23,6 @@
 * [X] Cable Clips - LCD (https://www.thingiverse.com/thing:3743287)
 * [X] Cable Clips - Bowden (https://www.thingiverse.com/thing:2732084)
 * [X] Cable Holder - Extruder (https://www.thingiverse.com/thing:3242340)
-* [X] LCD - frame (https://www.thingiverse.com/thing:4399369)
-* [X] LCD - back cover (https://www.thingiverse.com/thing:3374722)
 * [X] Knob - Extruder (https://www.thingiverse.com/thing:4086299)
 * [X] Tool Holder (https://www.thingiverse.com/thing:4341801)
 * [X] Filament Guide - Lead Screw (https://www.thingiverse.com/thing:3752185)
@@ -36,6 +34,8 @@
 * [ ] Filament Guide - Lead Screw (https://www.thingiverse.com/thing:3514129)
 
 ### Candiate List
+* [ ] LCD - frame (https://www.thingiverse.com/thing:4399369)
+* [ ] LCD - back cover (https://www.thingiverse.com/thing:3374722)
 * [ ] Belt Tensioners
     * [ ] Y-axis (https://www.thingiverse.com/thing:3268192)
     * [ ] X-axis (https://www.thingiverse.com/thing:3319649)
