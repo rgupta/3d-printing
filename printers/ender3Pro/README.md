@@ -1,5 +1,8 @@
 # Creality - Ender 3 Pro
 
+## Firmware
+https://github.com/rgupta/Marlin/tree/printer_ender3Pro
+
 ## Test Prints
 * [Bed Level Test](https://www.thingiverse.com/thing:2987803)
 
